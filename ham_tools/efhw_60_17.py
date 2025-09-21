@@ -1,6 +1,8 @@
-# This script calculates all needed wire length for an linked EndFed HalfWave
-# for the following bands:
+# This script calculates all needed wire lengths for an EndFed HalfWave
+# with a bypassable coil for the following bands:
 # 60, 40, 30, 20 17
+# Bypass: 20 m, 40 m
+# Coil: 60 m, 30 m, 17 m
 
 BANDS = {
     60: 5.35,
